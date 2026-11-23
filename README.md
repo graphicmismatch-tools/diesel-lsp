@@ -1,7 +1,7 @@
 # diesel-lsp
 
 A language server for **Diesel**, the C-like text format used by the
-[Petroleum](https://github.com/graphicmismatch/Petroleum) synthesizer for patches
+[Petroleum](https://github.com/graphicmismatch-tools/Petroleum) synthesizer for patches
 (`.dsl` files).
 
 It has **no dependencies**: the lexer and parser mirror Petroleum's own
